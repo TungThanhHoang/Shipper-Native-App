@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "shipper",
+    "slug": "shipper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "shipper"
+}
